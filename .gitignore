@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Distribution/build
+build/
+dist/
+*.egg-info/
+pip-wheel-metadata/
+
+# IDEs and editors
+.vscode/
+.idea/
+.pytest_cache/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Media and models
+hand_landmarker.task
+
+# Environment variables
+.env

@@ -1,0 +1,10 @@
+opencv-python==4.13.0.92
+mediapipe==0.10.35
+python-vlc==3.0.21203
+# Global media key sender
+keyboard==0.13.5
+# WinRT projections used to read system media state on Windows
+winrt-Windows.Media.Control==3.2.1
+winrt-Windows.Media==3.2.1
+winrt-Windows.Foundation==3.2.1
+winrt-runtime==3.2.1
