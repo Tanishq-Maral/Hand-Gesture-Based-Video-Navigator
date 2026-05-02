@@ -1,4 +1,5 @@
 
+
 # NEW VERSION: MediaPipe Tasks API
 import cv2
 import mediapipe as mp
@@ -202,5 +203,4 @@ while True:
         break
 
 cap.release()
-cv2.destroyAllWindows()
 cv2.destroyAllWindows()

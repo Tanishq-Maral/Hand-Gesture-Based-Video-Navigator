@@ -1,3 +1,4 @@
+
 # Hand-Gesture-Based-Video-Navigator Demo
 
 Use your webcam and MediaPipe to control media on your PC via hand gestures.
